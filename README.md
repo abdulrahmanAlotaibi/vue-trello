@@ -1,4 +1,4 @@
-# watch-us-build-trello
+# Vue trello
 
 ## Project setup
 ```
